@@ -1,6 +1,6 @@
 import sqlite3
 
-sqlfile = './example.sql'
+sqlfile = './sql/example.sql'
 
 # Sql Connection
 def get_database_connection():
