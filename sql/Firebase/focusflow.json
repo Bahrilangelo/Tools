@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "focusflow-e9a4a",
+  "private_key_id": "ae56c81e7d0199bfb4eef84349f47f77b44335a1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCNIcqBCe6URH8X\nmwCBS8cOlUs0Vpdv44+SGazO3HO6wQ813d/5kBjpFm/qAdzPkAGpHyXDtdwQHLs8\nf2pYQ7I3EvJmNVbKWi4SpA+5jDKV2w1FSeZ1zKKmaGG+S3Nfbq7CGErlfob1mqwq\nb4acyg+MRGXUthsV41tQ6+BlvlcjP0w5HpyXCXUI1py+w5+1bxnq3inIHuuY47oo\ni9Uj+yGT/35dIdzOpBTWfjHI43xcYEuavRvpDod4XHCvT6A5cVhyFj/DZg5fmjKx\nb6cX3Yb8kfMHExUQ0npOk7G3+ZRtfDBVLi21lwY0KCfxz2yTmm5/Jaz6IAZ7/Ltd\n5DUnkfHxAgMBAAECggEAAOnuGLsgEKpc3vdBn+oGBkHQidc3BczFujQbr/8yFKHO\ntRI/CAD3LaiCiFOuF/3ztMz0fqQ9IjGSw3KDwBc4HoPV4/QxIABIz2rBMKSyvdD8\nRgLo0MHGxShkhvSQG6xoye2Zq+C6Lk7rvHPvvYYlZvVuagZ/0xAfdZJWvUc9OIeG\n7a4EvlqHDIafmYw3MwNLMOCwbRWm3VyjOA+HcZ2Q9e8bee7uU5VkA1Ku+e1eMvXD\nFiaH7MDfbHEgYJ3GzXrlOePOPQ/B9ZNAoses7ETVCsOMMGh5uEtDXKDbOXklrESK\nFeo+LXkNLBw48onWMzCjmAcwCJCzgRJrdAF/rym1UQKBgQC+/3vblm/pH7KFUm1e\nbcYehWD23sRxZvwyZBbQ8FLoHuHr0mGCv1XIIEWYWsEKny0o85acbjVXm0tGNdKg\nmAfvShHhgYRadapb8wrBINEG32IR6d1nnX0WkEHa/M0i/d3ffPsppd3cVmZ7IYN8\nUDN8quD0Nwfgo75SiytxG6bdtQKBgQC9KcfnMBjNCOlLZ580rIQOzLm/ammXJSIa\nJiR5J5XHIdG2HLSIAJhYv9sbxtAeSTBKuXrqF6CSNmz59q43YaTplmbUYg9XAYn0\nfKXU57Y9/qqUHp5fkBne4chgFaU3RNtwJJ6/2+cG+noMevWfmy3C+QAcDalMyzfb\ny+nR7OnIzQKBgEsVHfiFm/q11jTo4UuktaRb5HFHw0udI3kftYRvZPgQ49kTe/et\nBajFXvZ0fryRNGyLzWIzRM7qol24XNN60Gu132+ZvZDd/plk4o5nOySLff7yw3Gv\nDHRpQyo2BOJDkAwCEq4doSiz4ld3JjwhPww8FHCMjZE2bWP/h5VQPHmdAoGBAKVb\nRZUR1Uw+cvlofqJkABiT2/e5BM6MNlBXcWC7OtHU/WZNl36fzo0eQWH5nGotHlrj\n4s+JkeLeUsr7WXWuFKPgxsj3Y2NyQ+8Fm00OtJ9i5CgQz+7Hn+XWxvs/UKqMtapF\nSMR8bWsLP+9y+Q3pb8pVMkRTqOApcQ3hJedNS1wtAoGBAJNzgUvdzTrUNw3E01Db\nsf2UrETehmnAefCHoZGFCO85JeaurWsXALXx7Jh2uGgmvVs4zuFTgFHbWPpKjqZI\nTumg1h/g8E1YNBo9q6K4NfubmvISz2OTQdVWN5yJKM68lJVIUPUzHPGELatwpzCL\ni3B1MsUY8NjvSs8RcSdMfVYo\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-alfsf@focusflow-e9a4a.iam.gserviceaccount.com",
+  "client_id": "110271339157848596815",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-alfsf%40focusflow-e9a4a.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
